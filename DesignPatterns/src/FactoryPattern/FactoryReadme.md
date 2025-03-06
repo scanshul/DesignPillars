@@ -7,3 +7,5 @@ created.
 Source : https://refactoring.guru/design-patterns/factory-method
 
 ![img.png](FactoryPattern/img.png)
+
+![img_1.png](img_1.png)
