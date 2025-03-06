@@ -5,5 +5,5 @@ Abstract Factory is a creational design pattern that lets you produce families o
 
 Source : https://www.youtube.com/watch?v=5hXZnI86E2Y
 
-![Alt Text](file:D:/GitRepo/DesignPillars/DesignPatterns/src/AbstractFactory/img.png)
+![Alt Text](DesignPatterns/src/AbstractFactory/img.png)
 
