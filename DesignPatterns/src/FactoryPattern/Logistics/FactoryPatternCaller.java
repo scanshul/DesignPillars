@@ -1,4 +1,4 @@
-package FactoryPattern;
+package FactoryPattern.Logistics;
 
 public class FactoryPatternCaller {
     public static void main(String[] args) {

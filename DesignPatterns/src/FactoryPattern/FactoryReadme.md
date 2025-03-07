@@ -6,6 +6,6 @@ created.
 
 Source : https://refactoring.guru/design-patterns/factory-method
 
-![img.png](img.png)
+![img.png](Images/FDPClassDiagram.png)
 
-![img_1.png](img_1.png)
+![img_1.png](Images/FDPFlow.png)

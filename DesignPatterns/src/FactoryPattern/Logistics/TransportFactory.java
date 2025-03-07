@@ -1,4 +1,4 @@
-package FactoryPattern;
+package FactoryPattern.Logistics;
 
 public class TransportFactory {
 
