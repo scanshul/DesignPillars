@@ -3,9 +3,6 @@ Design patterns are basically defined as reusable solutions to the common proble
 arise during software design and development. They are general templates or best practices 
 that guide developers in creating well-structured, maintainable, and efficient code.
 
-
-
-
 ![img.png](Images/BasicTypes.png)
 
 ![img_1.png](Images/DetailsType.png)
